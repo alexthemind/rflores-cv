@@ -1,0 +1,16 @@
+.footer {
+    background: rgb(15, 15, 15);
+}
+
+@media only screen and (max-width: 650px) {
+
+    .col-hide {
+        display: none !important;
+    }
+
+    .nextui-c-kRHeuF-ilafheP-css.xs {
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+
+}
