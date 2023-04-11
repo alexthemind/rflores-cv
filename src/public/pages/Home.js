@@ -77,7 +77,7 @@ const Home = () => {
                                 <Col className="col-hide" justify={'start'} align={'center'}>
                                     <center>
                                         <Avatar 
-                                        src="./personal/perfil.jpg" 
+                                        src="personal/perfil.jpg" 
                                         color='secondary'
                                         css={{
                                             width: '10em',
